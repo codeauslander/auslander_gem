@@ -3,7 +3,7 @@ require "auslander/version"
 module Auslander
   class BlowDryer
     def dry
-      `say ooo`
+      puts "oooo"
     end
   end
 end
