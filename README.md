@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Here is the file to start up auslander insterface
+```ruby
+require 'auslander'
+
+#this line starts your terminal interface.
+Auslander::BlowDryer.new.dry
+```
 
 ## Development
 
